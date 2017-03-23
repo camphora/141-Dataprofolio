@@ -17,7 +17,7 @@ In this section, I scraped text from The California Aggie and then analyze the t
 
 
 #### [SQL query and analysis about database ](https://github.com/camphora/141-Dataprofolio/blob/master/assignment6_0.ipynb)
-According to the database sf_data([download here](http://anson.ucdavis.edu/~nulle/sf_data.sqlite), I used SQL to extract and analysis data. Then, I used geopandas module(map) to further interpret some results.
+According to the database sf_data[(download here)](http://anson.ucdavis.edu/~nulle/sf_data.sqlite, I used SQL to extract and analysis data. Then, I used geopandas module(map) to further interpret some results.
 
 
 ### Project
