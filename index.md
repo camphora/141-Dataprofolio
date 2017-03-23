@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my Data Profolio Page
 
-You can use the [editor on GitHub](https://github.com/camphora/141-Dataprofolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+I am Shu Zhang, a Master student in biostatistics in UC davis. I studied Biomedical Engineering as my undergraduate major in the university in Nanjing, China and then entered davis to switch my major to Biostatitics. I am always interested biological and medical science and also very enthusiastic about mathematic science and statistics. Therefore  I chose Biostatitcs as my major and hoped to employ data analysis method in the fields one day. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Profilo
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Practices 
 
-```markdown
-Syntax highlighted code block
+####API acquirement and analysis about [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/search/list).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+####
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Project
+[Our project](https://kevinxucong.github.io/141B/) is about tweet data analysis and interpretation of President Donald Trump, we got the basic idea and enlightment by David Robinson's [excellent work](http://varianceexplained.org/r/trump-tweets/) and derive our unique analysis and conclusions.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/camphora/141-Dataprofolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
